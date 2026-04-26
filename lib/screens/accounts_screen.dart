@@ -13,7 +13,7 @@ const kOrange = Color(0xFFF39C12);
 const kTeal = Color(0xFF1ABC9C);
 
 // ─── IMPORTANT: Apni real API key yahan dalo ─────────────────────────────────
-const String kClaudeApiKey = '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';
+const String kClaudeApiKey = 's';
 // ─────────────────────────────────────────────────────────────────────────────
 
 // ─── Data Models ─────────────────────────────────────────────────────────────
